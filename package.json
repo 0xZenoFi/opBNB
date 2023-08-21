@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ethers": "^6.5.1",
+    "ts-node": "^10.9.1"
+  }
+}
